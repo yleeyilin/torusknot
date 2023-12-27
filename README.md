@@ -3,6 +3,10 @@
 Built using Vanilla.js, Three.js and Vite 
 Project includes basic use of Three.js and gsap's animation functions 
 ### Feature 1: 
-Colour changing based on mouse click 
-### Rotation: 
-Placed animation in a gsap timeline 
+Colour changing based on mouse click.
+### Feature 2: 
+Automatic Rotation. Users are able to shift the lighting and orientation of object at the scene. 
+
+### To test out the website: 
+1. Clone a copy of the code base
+2. Run ```npm run dev```
